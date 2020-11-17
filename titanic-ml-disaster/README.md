@@ -1,5 +1,5 @@
 ## [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
-This is an IPython Notebook for the Kaggle competition, Titanic Machine Learning From Disaster. This [Notebook](titani-analysis.ipynb) aims at performing EDA(explanatory data analysis) on the dataset along with generating a [submission.csv](catboost_submission.csv) by running several classifier model.
+This is an IPython Notebook for the Kaggle competition, Titanic Machine Learning From Disaster. This [Notebook](titanic-analysis.ipynb) aims at performing EDA(explanatory data analysis) on the dataset along with generating a [submission.csv](catboost_submission.csv) by running several classifier model.
 
 ## Goals for this note book
 
