@@ -8,6 +8,7 @@ A repository containing solutions to Kaggle challenges
 | [House Prices: Advanced Regression Techniques](./house-prices-reg-techniques) | Done |
 | [Predict Future Sales](./predict-future-sales) | WIP |
 | [Every Cryptocurrency Daily Market Price](./crypto-daily-price) | WIP |
+|[Flight Fare Prediction MH](./flight-fare-prediction)| Done |
 
 
 
