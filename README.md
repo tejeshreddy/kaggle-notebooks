@@ -9,7 +9,7 @@ A repository containing solutions to Kaggle challenges
 | [Predict Future Sales](./predict-future-sales) | WIP |
 | [Every Cryptocurrency Daily Market Price](./crypto-daily-price) | WIP |
 |[Flight Fare Prediction MH](./flight-fare-prediction)| Done |
-| [New York City Airbnb Open Data](./nyc-airbnb-open-data) | WIP |
+| [New York City Airbnb Open Data](./airbnb-open-data/nyc) | WIP |
 
 
 
