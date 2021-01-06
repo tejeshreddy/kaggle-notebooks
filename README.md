@@ -8,8 +8,10 @@ A repository containing solutions to Kaggle challenges
 | [House Prices: Advanced Regression Techniques](./house-prices-reg-techniques) | Done |
 | [Predict Future Sales](./predict-future-sales) | WIP |
 | [Every Cryptocurrency Daily Market Price](./crypto-daily-price) | WIP |
-|[Flight Fare Prediction MH](./flight-fare-prediction)| Done |
-| [New York City & Seattle Airbnb Open Data](./airbnb-open-data/nyc) | WIP |
+| [Flight Fare Prediction MH](./flight-fare-prediction) | Done |
+| [New York City & Seattle Airbnb Open Data](./airbnb-open-data) | WIP |
+| [House Sales in King County, USA](./house-sales-in-king-county-usa) | WIP |
+
 
 
 
