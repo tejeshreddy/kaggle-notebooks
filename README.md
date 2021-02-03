@@ -11,6 +11,7 @@ A repository containing solutions to Kaggle challenges
 | [Flight Fare Prediction MH](./flight-fare-prediction) | Done |
 | [New York City & Seattle Airbnb Open Data](./airbnb-open-data) | WIP |
 | [House Sales in King County, USA](./house-sales-in-king-county-usa) | WIP |
+| [Netflix Movies and TV Shows](./netflix-movies-tv-shows) | Done |
 
 
 
