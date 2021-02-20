@@ -15,4 +15,13 @@
 
 ## Models and Eval Metrics
 
+| Model | Performance Feature(r^2) |
+| :-: | :-: |
+| LinearRegression|	0.880023 |
+| Lasso | -0.000053 |
+| Ridge |0.880023 |
+| SVR | 0.936693 |
+| DecisionTreeRegressor| 0.951218 |
+| MLPRegressor |	0.940426 |
+
 ## Future Scope
