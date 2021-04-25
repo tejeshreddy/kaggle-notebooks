@@ -13,6 +13,8 @@ A repository containing solutions to Kaggle challenges
 | [House Sales in King County, USA](./house-sales-in-king-county-usa) | WIP |
 | [Netflix Movies and TV Shows](./netflix-movies-tv-shows) | Done |
 | [100,000 UK Used Car Data set](./uk-used-car-data-set) | Done |
+| [Logistic Regression - Social Network Ads](./logistic-regression) | Done |
+| [MNIST Digits Recongnizer](./mnist-digits-recognizer) | Done |
 
 
 
